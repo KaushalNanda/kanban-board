@@ -10,7 +10,6 @@ import {
   useSensor,
   PointerSensor,
   useSensors,
-  DragMoveEvent,
   DragOverEvent
 } from "@dnd-kit/core";
 import { SortableContext, arrayMove} from "@dnd-kit/sortable";
